@@ -1,0 +1,127 @@
+[
+  {
+    "question": "How do I create an account?",
+    "answer": "Click Sign Up at the top right of the page, enter your name, email and a password, then confirm your email address using the link we send you.",
+    "keywords": "sign up register new account join"
+  },
+  {
+    "question": "I forgot my password. How can I reset it?",
+    "answer": "Click Forgot Password on the login page, enter your registered email and follow the reset link we send you. The link stays valid for 30 minutes.",
+    "keywords": "reset login password forgot change recover"
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "Go to My Orders in your account and select the order. You will see live tracking. A tracking link is also emailed to you once your order ships.",
+    "keywords": "where is my order tracking status shipped parcel package"
+  },
+  {
+    "question": "How long does delivery take?",
+    "answer": "Standard delivery takes 3 to 5 business days. Express delivery takes 1 to 2 business days and is available in major cities.",
+    "keywords": "how long shipping take delivery time arrive days"
+  },
+  {
+    "question": "How much is the shipping charge?",
+    "answer": "Shipping is free on orders above 50 dollars. For smaller orders, standard shipping costs 4 dollars and express shipping costs 9 dollars.",
+    "keywords": "shipping cost fee delivery charges free shipping price"
+  },
+  {
+    "question": "Do you ship internationally?",
+    "answer": "Yes, we ship to more than 40 countries. International delivery takes 7 to 14 business days and customs charges may apply.",
+    "keywords": "international overseas abroad other countries worldwide"
+  },
+  {
+    "question": "What is your return policy?",
+    "answer": "You can return most items within 30 days of delivery as long as they are unused and in their original packaging.",
+    "keywords": "return policy money back days window"
+  },
+  {
+    "question": "How do I return a product?",
+    "answer": "Open My Orders, choose the item, click Return and select a reason. Print the prepaid label and drop the package at any courier point.",
+    "keywords": "send back return item process label"
+  },
+  {
+    "question": "When will I receive my refund?",
+    "answer": "Refunds are processed within 5 to 7 business days after we receive your returned item and go back to your original payment method.",
+    "keywords": "refund money back get my money reimbursement when"
+  },
+  {
+    "question": "Can I exchange an item for a different size or color?",
+    "answer": "Yes. Start a return and choose Exchange, then pick the new size or color. We will ship the replacement as soon as the return is scanned.",
+    "keywords": "exchange swap replace size colour color"
+  },
+  {
+    "question": "Can I cancel my order?",
+    "answer": "You can cancel an order from My Orders before it has shipped. Once it is shipped, you will need to return it after delivery.",
+    "keywords": "cancel order stop purchase"
+  },
+  {
+    "question": "Can I change my delivery address after placing an order?",
+    "answer": "You can update the address from My Orders within 1 hour of placing the order. After that, please contact support and we will try our best to help.",
+    "keywords": "change edit update address wrong address"
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept Visa, Mastercard, American Express, PayPal, bank transfers and cash on delivery in selected areas.",
+    "keywords": "pay payment paypal visa mastercard credit card debit cash on delivery methods options accept"
+  },
+  {
+    "question": "Is it safe to pay on your website?",
+    "answer": "Yes. All payments are encrypted using SSL and we never store your full card details on our servers.",
+    "keywords": "secure security safe encrypted trust card details information data privacy protected"
+  },
+  {
+    "question": "My payment failed but money was deducted. What should I do?",
+    "answer": "Do not worry. Failed payments are automatically reversed within 3 to 5 business days. If it takes longer, contact support with your transaction ID.",
+    "keywords": "payment failed deducted charged twice transaction error"
+  },
+  {
+    "question": "How do I use a discount code or coupon?",
+    "answer": "Enter your code in the Promo Code box at checkout and click Apply. The discount will show in your order summary before you pay.",
+    "keywords": "promo code voucher coupon discount offer apply"
+  },
+  {
+    "question": "Do you offer gift cards?",
+    "answer": "Yes, digital gift cards from 10 to 500 dollars are available. They are delivered by email instantly and never expire.",
+    "keywords": "gift voucher present"
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can email support@shopease.com, call 1-800-555-0199 from 9 AM to 6 PM Monday to Saturday, or use the live chat on our website.",
+    "keywords": "contact reach email phone call help support agent"
+  },
+  {
+    "question": "What are your customer support working hours?",
+    "answer": "Our support team is available from 9 AM to 6 PM, Monday to Saturday. Emails sent outside these hours are answered the next business day.",
+    "keywords": "support open hours time timing available working when"
+  },
+  {
+    "question": "I received a damaged or wrong item. What should I do?",
+    "answer": "We are sorry about that. Send us a photo of the item within 7 days of delivery at support@shopease.com and we will send a replacement or a full refund.",
+    "keywords": "damaged broken defective wrong item incorrect faulty"
+  },
+  {
+    "question": "How do I know if a product is in stock?",
+    "answer": "Each product page shows its availability. If an item is out of stock, click Notify Me and we will email you when it is back.",
+    "keywords": "stock available availability out of stock restock"
+  },
+  {
+    "question": "Do your products come with a warranty?",
+    "answer": "Electronics carry a 1 year manufacturer warranty. The warranty details are listed on each product page.",
+    "keywords": "warranty guarantee repair"
+  },
+  {
+    "question": "How can I update my profile information?",
+    "answer": "Log in, open Account Settings and edit your name, phone number, email or saved addresses, then click Save.",
+    "keywords": "profile edit details phone email name settings"
+  },
+  {
+    "question": "How do I unsubscribe from promotional emails?",
+    "answer": "Click the Unsubscribe link at the bottom of any promotional email, or turn off notifications in Account Settings.",
+    "keywords": "unsubscribe emails newsletter spam notifications"
+  },
+  {
+    "question": "How do I delete my account?",
+    "answer": "Go to Account Settings, choose Privacy and click Delete Account. Your data will be permanently removed within 30 days.",
+    "keywords": "delete close remove account data"
+  }
+]
